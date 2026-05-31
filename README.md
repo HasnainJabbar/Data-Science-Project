@@ -59,10 +59,8 @@ Used to analyze:
 
 - Python
 - Pandas
-- NumPy
 - Scikit-learn
 - Matplotlib
-- Seaborn
 - Jupyter Notebook
 
 ---
