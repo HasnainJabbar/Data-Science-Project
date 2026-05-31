@@ -1,4 +1,4 @@
-📧 Spam Email Classifier using Machine Learning
+**📧 Spam Email Classifier using Machine Learning**
 
 🚀 Project Overview
 
