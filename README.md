@@ -87,7 +87,6 @@ To compare multiple machine learning algorithms and identify the most effective 
 Through this project, I gained practical experience in:
 
 - Machine Learning Classification
-- Natural Language Processing (NLP)
 - Data Preprocessing
 - Model Evaluation
 - Data Visualization
